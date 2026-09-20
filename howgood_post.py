@@ -14,7 +14,7 @@ payload = {
     "resume": "https://pingponghero.github.io/joebarlow/resume.pdf",
     "location": "Asheville, NC",
     "linkedin": "https://www.linkedin.com/in/joe-barlow",
-    "codeLink": "https://github.com/pingponghero/joebarlow/blob/main/howgood_post.py"
+    "codeLink": "https://github.com/pingponghero/joebarlow/blob/main/howgood_post.py",
     "yearsPython": 5,
     "yearsDjango": 5,
     "repos": "https://github.com/pingponghero",
